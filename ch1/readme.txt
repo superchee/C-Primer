@@ -1,0 +1,1 @@
+Get-Content book_sales | .\main.exe | tee result
